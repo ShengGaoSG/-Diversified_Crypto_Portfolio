@@ -28,7 +28,6 @@ In this Project, we assumed the role of a quantitative analyst for a FinTech inv
 - [Software version control](https://github.com/nataliaburrey/project_1#software-version-control)
     - [Libraries / interfaces](https://github.com/nataliaburrey/project_1#libraries--interfaces)
     - [Work with GitHub](https://github.com/nataliaburrey/project_1#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/project_1#how-to-install)
     - [How to use Voila](https://github.com/nataliaburrey/project_1#how-to-use-voila)
     - [Run Alpaca](https://github.com/nataliaburrey/project_1/blob/main/README.md#run-alpaca)
 - [Work with data](https://github.com/nataliaburrey/project_1#work-with-data)
@@ -37,7 +36,6 @@ In this Project, we assumed the role of a quantitative analyst for a FinTech inv
     - [Data visualization](https://github.com/nataliaburrey/project_1#data-visualization)
 - [Results and summary of the analysis](https://github.com/nataliaburrey/project_1/blob/main/README.md#results-and-summary-of-the-analysis)
 - [License](https://github.com/nataliaburrey/project_1#license)
-- [Team](https://github.com/nataliaburrey/project_1/blob/main/README.md#team)
 - [Links](https://github.com/nataliaburrey/project_1#links)
 
 
