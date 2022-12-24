@@ -135,28 +135,6 @@ Those steps are nessesary to maintain a security of private information.
 * Jupyter Notebook with code well commented with concise, relevant notes.
 * Detailed explanation of each step with explanation of financial data and conclusions of analyses (example)
 
-### How to install
-
-* Save remote repo from GitHub to your computer (Desktop): in Terninal type:
-
-```
-cd desktop
-
-git clone https://github.com/nataliaburrey/SQL_Financial_Application.git
-```
-
-now you can find repo on your desktop
-
-
-* Open a Jupyter Lab: In Terminal type command
-
-```
-jupyter lab
-```
-
-* In Jupyter Lab access saved repo folder 
-* Choose [ project_1.ipynb ] file to see the analysis report.
-
 
 
 ## How to use Voila
@@ -279,11 +257,6 @@ We presented results into interactive hvplots like:
 <img width="796" alt="Screen Shot 2021-05-20 at 8 54 55 PM" src="https://user-images.githubusercontent.com/80833988/119079768-a4c84080-b9ad-11eb-9a0c-e26617995274.png">
 ](url)
 
-
-## Team
-* [Natalia Burrey](https://github.com/nataliaburrey)
-* [Van Maquilan](https://github.com/VanMSM)
-* [Nestor Ramirez](https://github.com/nestor39)
 
 ## License
 
